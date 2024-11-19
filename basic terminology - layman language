@@ -1,0 +1,6 @@
+classes are a ata structure , they are basically a template for objects , they defien the properties and behaviours an object originated from that class might have.
+the idea of an object is that , itcould  having proprties and behaviours similar to the ones defined in the class it originated from , however every object is different as in it has different values for its properties , in some cases even its properties might vary 
+hence we require a class that kinda forms a blueprint for objects that might have different value for each property, however have similar behaviour , 
+objects consist of properties (what all defines that object ,as in variables and what all that object can do as in methods , objects generate events )
+4 pillars of OOP:
+- encapsulation : data in a class can only be accessed based on its access modifiers andthe 
